@@ -1,0 +1,5 @@
+\babel@toc {nil}{}
+\contentsline {section}{\numberline {1}TD 1 - Jeudi 22 septembre}{1}{}%
+\contentsline {subsubsection}{\numberline {1.0.1}Langage}{1}{}%
+\contentsline {subsubsection}{\numberline {1.0.2}Communication}{1}{}%
+\contentsline {subsection}{\numberline {1.1}Pour le prochain cours :}{2}{}%
