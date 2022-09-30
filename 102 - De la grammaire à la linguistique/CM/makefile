@@ -1,5 +1,9 @@
-all: cours.tex s1.tex s2.tex
-	pdflatex Cours.tex
+.PHONY : all clean print
+
+all : cours.pdf
+
+cours.pdf: cours.tex s1.tex s2.tex
+	pdflatex cours.tex
 
 clean: 
 	rm *.log *.toc *.aux
