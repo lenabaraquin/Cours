@@ -2,7 +2,7 @@
 
 all : cours.pdf
 
-cours.pdf: cours.tex s1.tex s2.tex
+cours.pdf: cours.tex s1.tex s2.tex s3.tex
 	pdflatex cours.tex
 
 clean: 
