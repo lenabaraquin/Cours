@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.9.22)  2 OCT 2022 23:04
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.9.22)  7 OCT 2022 17:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -181,6 +181,10 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
+
+LaTeX Font Warning: Font shape `T1/cmr/m/scit' undefined
+(Font)              using `T1/cmr/m/it' instead on input line 35.
+
 <footer.jpg, id=1, 61.4295pt x 3.6135pt>
 File: footer.jpg Graphic file (type jpg)
 <use footer.jpg>
@@ -189,19 +193,23 @@ Package pdftex.def Info: footer.jpg  used on input line 45.
 <logo_fac.jpg, id=2, 346.29375pt x 146.5475pt>
 File: logo_fac.jpg Graphic file (type jpg)
 <use logo_fac.jpg>
-Package pdftex.def Info: logo_fac.jpg  used on input line 48.
+Package pdftex.def Info: logo_fac.jpg  used on input line 46.
 (pdftex.def)             Requested size: 113.81102pt x 48.16179pt.
-
 [1
 
 {/usr/share/texlive/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./logo_fac.j
-pg> <./footer.jpg>] [1] (./main.aux) ) 
+pg>]
+File: logo_fac.jpg Graphic file (type jpg)
+<use logo_fac.jpg>
+Package pdftex.def Info: logo_fac.jpg  used on input line 48.
+(pdftex.def)             Requested size: 113.81102pt x 48.16179pt.
+ [2 <./footer.jpg>] [1] (./main.aux) ) 
 Here is how much of TeX's memory you used:
- 3577 strings out of 480806
- 50320 string characters out of 5905151
- 358419 words of memory out of 6000000
- 20957 multiletter control sequences out of 15000+600000
- 406979 words of font info for 32 fonts, out of 8000000 for 9000
+ 3579 strings out of 480806
+ 50345 string characters out of 5905151
+ 358439 words of memory out of 6000000
+ 20958 multiletter control sequences out of 15000+600000
+ 407666 words of font info for 33 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  55i,12n,62p,202b,424s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/
@@ -209,11 +217,11 @@ dvips/cm-super/cm-super-t1.enc}</usr/share/texlive/texmf-dist/fonts/type1/publi
 c/cm-super/sfcc1200.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-su
 per/sfcc1728.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfr
 m1000.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfrm1200.p
-fb>
-Output written on main.pdf (2 pages, 65083 bytes).
+fb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfti1728.pfb>
+Output written on main.pdf (3 pages, 79397 bytes).
 PDF statistics:
- 30 PDF objects out of 1000 (max. 8388607)
- 19 compressed objects within 1 object stream
+ 37 PDF objects out of 1000 (max. 8388607)
+ 24 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
