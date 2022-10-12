@@ -1,0 +1,148 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{apa/global//global/global}
+    \entry{Bol99}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=688d68d4a7a50352bee25a6baeb75970}{%
+           family={Boltanski},
+           familyi={B\bibinitperiod},
+           given={Jean-Élie\bibnamedelimb (1935-....).\bibnamedelimi Auteur\bibnamedelimb du\bibnamedelima texte},
+           giveni={J\bibinithyphendelim É\bibinitperiod\bibinitdelim (\bibinithyphendelim .\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim t\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {fre}%
+      }
+      \list{publisher}{1}{%
+        {Paris}%
+      }
+      \strng{namehash}{688d68d4a7a50352bee25a6baeb75970}
+      \strng{fullhash}{688d68d4a7a50352bee25a6baeb75970}
+      \strng{bibnamehash}{688d68d4a7a50352bee25a6baeb75970}
+      \strng{authorbibnamehash}{688d68d4a7a50352bee25a6baeb75970}
+      \strng{authornamehash}{688d68d4a7a50352bee25a6baeb75970}
+      \strng{authorfullhash}{688d68d4a7a50352bee25a6baeb75970}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Nouvelles directions en phonologie / Jean-Élie Boltanski,...}
+      \field{year}{1999}
+      \keyw{Phonologie}
+    \endentry
+    \entry{Pep16}{inbook}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ac8f08d8801cc340297b7862a3520225}{%
+           family={Pépiot},
+           familyi={P\bibinitperiod},
+           given={Erwan},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=3e28b939772291963f28f2e1f2a3ad0c}{%
+           family={Danlos},
+           familyi={D\bibinitperiod},
+           given={Laurence},
+           giveni={L\bibinitperiod}}}%
+        {{hash=c63a265f6ecc64f22cfede769d23ffd5}{%
+           family={Hamon},
+           familyi={H\bibinitperiod},
+           given={Thierry},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {AFCP - ATALA}%
+      }
+      \strng{namehash}{ac8f08d8801cc340297b7862a3520225}
+      \strng{fullhash}{ac8f08d8801cc340297b7862a3520225}
+      \strng{bibnamehash}{ac8f08d8801cc340297b7862a3520225}
+      \strng{authorbibnamehash}{ac8f08d8801cc340297b7862a3520225}
+      \strng{authornamehash}{ac8f08d8801cc340297b7862a3520225}
+      \strng{authorfullhash}{ac8f08d8801cc340297b7862a3520225}
+      \strng{editorbibnamehash}{85d222075ae4dc8a94ae1494c030a3d3}
+      \strng{editornamehash}{85d222075ae4dc8a94ae1494c030a3d3}
+      \strng{editorfullhash}{85d222075ae4dc8a94ae1494c030a3d3}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Actes de la conférence conjointe JEP-TALN-RECITAL 2016. Volume 1 : JEP, Paris, France, July 4-8, 2016}
+      \field{title}{Voix de femmes, voix d'hommes: une étude du voice onset time, de la répartition consonnes/voyelles et du débit de parole chez des locuteurs francophones et anglophones américains (Female and male speech: a study of VOT, C/V temporal distribution and speech rate in Parisian French and American English speakers)}
+      \field{year}{2016}
+      \field{pages}{759\bibrangedash 767}
+      \range{pages}{9}
+      \verb{urlraw}
+      \verb https://www.aclweb.org/anthology/2016.jeptalnrecital-jep.85/
+      \endverb
+      \verb{url}
+      \verb https://www.aclweb.org/anthology/2016.jeptalnrecital-jep.85/
+      \endverb
+    \endentry
+    \entry{Pep21}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=ac8f08d8801cc340297b7862a3520225}{%
+           family={Pépiot},
+           familyi={P\bibinitperiod},
+           given={Erwan},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=16e86f96d15a0b73445c2b04f135c7b7}{%
+           family={Arnold},
+           familyi={A\bibinitperiod},
+           given={Aron},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {SAGE Publications Sage CA: Los Angeles, CA}%
+      }
+      \strng{namehash}{41257a6f6869bde9d42a00f9b3876f20}
+      \strng{fullhash}{41257a6f6869bde9d42a00f9b3876f20}
+      \strng{bibnamehash}{41257a6f6869bde9d42a00f9b3876f20}
+      \strng{authorbibnamehash}{41257a6f6869bde9d42a00f9b3876f20}
+      \strng{authornamehash}{41257a6f6869bde9d42a00f9b3876f20}
+      \strng{authorfullhash}{41257a6f6869bde9d42a00f9b3876f20}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Perceptual and Motor Skills}
+      \field{number}{1}
+      \field{title}{Cross-Gender Differences in English/French Bilingual Speakers: A Multiparametric Study}
+      \field{volume}{128}
+      \field{year}{2021}
+      \field{pages}{153\bibrangedash 177}
+      \range{pages}{25}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
