@@ -19,27 +19,69 @@
 
 \refsection{0}
   \datalist[entry]{apa/global//global/global}
-    \entry{Bol99}{book}{}
+    \entry{podcast}{misc}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=688d68d4a7a50352bee25a6baeb75970}{%
-           family={Boltanski},
-           familyi={B\bibinitperiod},
-           given={Jean-Élie\bibnamedelimb (1935-....).\bibnamedelimi Auteur\bibnamedelimb du\bibnamedelima texte},
-           giveni={J\bibinithyphendelim É\bibinitperiod\bibinitdelim (\bibinithyphendelim .\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim t\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{language}{1}{%
-        {fre}%
+        {{un=0,uniquepart=base,hash=128ecf542a35ac5270a87dc740918404}{%
+           family={bla},
+           familyi={b\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
-        {Paris}%
+        {France Culture}%
       }
-      \strng{namehash}{688d68d4a7a50352bee25a6baeb75970}
-      \strng{fullhash}{688d68d4a7a50352bee25a6baeb75970}
-      \strng{bibnamehash}{688d68d4a7a50352bee25a6baeb75970}
-      \strng{authorbibnamehash}{688d68d4a7a50352bee25a6baeb75970}
-      \strng{authornamehash}{688d68d4a7a50352bee25a6baeb75970}
-      \strng{authorfullhash}{688d68d4a7a50352bee25a6baeb75970}
+      \strng{namehash}{128ecf542a35ac5270a87dc740918404}
+      \strng{fullhash}{128ecf542a35ac5270a87dc740918404}
+      \strng{bibnamehash}{128ecf542a35ac5270a87dc740918404}
+      \strng{authorbibnamehash}{128ecf542a35ac5270a87dc740918404}
+      \strng{authornamehash}{128ecf542a35ac5270a87dc740918404}
+      \strng{authorfullhash}{128ecf542a35ac5270a87dc740918404}
+      \field{sortinit}{b}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{La voix dans tous ses états}
+      \field{month}{08}
+      \field{title}{Voix et genre}
+      \field{year}{2016}
+      \verb{urlraw}
+      \verb https://www.radiofrance.fr/franceculture/podcasts/culture-musique-ete/voix-et-genre-1542609
+      \endverb
+      \verb{url}
+      \verb https://www.radiofrance.fr/franceculture/podcasts/culture-musique-ete/voix-et-genre-1542609
+      \endverb
+    \endentry
+    \entry{Boe75}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=b0a98c499cca0166609a93eaf9f24edb}{%
+           family={Boë},
+           familyi={B\bibinitperiod},
+           given={Louis-Jean},
+           giveni={L\bibinithyphendelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d5a9056db32fd99dec79e7a8bec8b5a1}{%
+           family={Contini},
+           familyi={C\bibinitperiod},
+           given={Michel},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=610bf5610ef0ba7e6d68af3c1d4079d5}{%
+           family={Rakotofiringa},
+           familyi={R\bibinitperiod},
+           given={Hippolyte},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {De Gruyter Mouton}%
+      }
+      \strng{namehash}{ee5e2e57d75512502aa28150bd489fa7}
+      \strng{fullhash}{0e0a7080c55af834a53abee5829ae9d1}
+      \strng{bibnamehash}{0e0a7080c55af834a53abee5829ae9d1}
+      \strng{authorbibnamehash}{0e0a7080c55af834a53abee5829ae9d1}
+      \strng{authornamehash}{ee5e2e57d75512502aa28150bd489fa7}
+      \strng{authorfullhash}{0e0a7080c55af834a53abee5829ae9d1}
       \field{sortinit}{B}
       \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
       \field{extradatescope}{labelyear}
@@ -47,9 +89,76 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{Nouvelles directions en phonologie / Jean-Élie Boltanski,...}
-      \field{year}{1999}
-      \keyw{Phonologie}
+      \field{journaltitle}{Phonetica}
+      \field{number}{1}
+      \field{title}{Étude statistique de la fréquence laryngienne}
+      \field{volume}{32}
+      \field{year}{1975}
+      \field{pages}{1\bibrangedash 23}
+      \range{pages}{23}
+    \endentry
+    \entry{Bro18}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ad9594ef948ec1540e57ecdbdaa4fd31}{%
+           family={Brouze},
+           familyi={B\bibinitperiod},
+           given={Émilie},
+           giveni={É\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ad9594ef948ec1540e57ecdbdaa4fd31}
+      \strng{fullhash}{ad9594ef948ec1540e57ecdbdaa4fd31}
+      \strng{bibnamehash}{ad9594ef948ec1540e57ecdbdaa4fd31}
+      \strng{authorbibnamehash}{ad9594ef948ec1540e57ecdbdaa4fd31}
+      \strng{authornamehash}{ad9594ef948ec1540e57ecdbdaa4fd31}
+      \strng{authorfullhash}{ad9594ef948ec1540e57ecdbdaa4fd31}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{L'Obs}
+      \field{month}{07}
+      \field{title}{Grave ou aiguë, sombre ou claire ? Ce que le genre fait à notre voix}
+      \field{year}{2018}
+      \verb{urlraw}
+      \verb https://www.nouvelobs.com/rue89/nos-vies-intimes/20180723.OBS0077/grave-ou-aigue-sombre-ou-claire-ce-que-le-genre-fait-a-notre-voix.html
+      \endverb
+      \verb{url}
+      \verb https://www.nouvelobs.com/rue89/nos-vies-intimes/20180723.OBS0077/grave-ou-aigue-sombre-ou-claire-ce-que-le-genre-fait-a-notre-voix.html
+      \endverb
+    \endentry
+    \entry{Lek16}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=85bc342c2ff976fca03d3b06d1ae5dc2}{%
+           family={Lekeu},
+           familyi={L\bibinitperiod},
+           given={Julie},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Université de Liège, Liège, Belgique}%
+      }
+      \strng{namehash}{eca960e753d3d830e9b3979e4dbdcf8e}
+      \strng{fullhash}{eca960e753d3d830e9b3979e4dbdcf8e}
+      \strng{bibnamehash}{eca960e753d3d830e9b3979e4dbdcf8e}
+      \strng{authorbibnamehash}{eca960e753d3d830e9b3979e4dbdcf8e}
+      \strng{authornamehash}{eca960e753d3d830e9b3979e4dbdcf8e}
+      \strng{authorfullhash}{eca960e753d3d830e9b3979e4dbdcf8e}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Étendue vocale et prosodie: différences inter-genres?}
+      \field{year}{2016}
     \endentry
     \entry{Pep16}{inbook}{}
       \name{author}{1}{}{%
@@ -103,7 +212,7 @@
       \verb https://www.aclweb.org/anthology/2016.jeptalnrecital-jep.85/
       \endverb
     \endentry
-    \entry{Pep21}{article}{}
+    \entry{Pep20}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=ac8f08d8801cc340297b7862a3520225}{%
            family={Pépiot},
@@ -138,7 +247,7 @@
       \field{number}{1}
       \field{title}{Cross-Gender Differences in English/French Bilingual Speakers: A Multiparametric Study}
       \field{volume}{128}
-      \field{year}{2021}
+      \field{year}{2020}
       \field{pages}{153\bibrangedash 177}
       \range{pages}{25}
     \endentry

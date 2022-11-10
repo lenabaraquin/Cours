@@ -46,27 +46,24 @@
  
     \vspace*{9.2cm}
  
-    \begin{center}
-        \makebox[\textwidth]{\includegraphics[width=\paperwidth]{footer.jpg}}
-    \end{center}
+%    \begin{center}
+%        \makebox[\textwidth]{\includegraphics[width=\paperwidth]{footer.jpg}}
+%    \end{center}
  
 \end{titlepage}
 \ClearShipoutPicture
 
 \tableofcontents
+\section{Introduction}
+\input{intro.tex}
 \newpage
 
-\section{Introduction}
-\section{Test biblio}
-\begin{itemize}
-   \item L'article que je suis en train de lire : \parencite{Pep21}.
-   \item Un autre article mais cette fois avec la commande cite : \cite{Pep16}.
-   \item Un livre pour m'aider dans la compréhension de l'article \parencite{Pep21} : \cite{Bol99}.
-\end{itemize}
+\section{Résumé de l'article \cite{Pep20}}
+\input{resume.tex}
 \section{Bibliographie}
-\printbibliography
-\section{Analyse réflexive}
-\section{Conclusion}
+\input{biblio.tex}
+\section{Analyse réflexive et Conclusion}
+\input{conclusion.tex}
 
 
 \end{document}
