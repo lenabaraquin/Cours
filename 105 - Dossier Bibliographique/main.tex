@@ -5,7 +5,7 @@
 \usepackage{graphicx}
 \usepackage{fullpage}
 \usepackage{eso-pic}
-\usepackage{csquotes}
+\usepackage[left = \flqq{}, right = \frqq{}]{dirtytalk}%citations avec \say
 \usepackage[style=apa,sortcites=true,backend=biber]{biblatex}
 %biblatex:
 \DeclareLanguageMapping{french}{french-apa}
@@ -20,7 +20,7 @@
   \put(\LenToUnit{\dimexpr\paperwidth-#1},\LenToUnit{\dimexpr\paperheight-#2}){\blap{\llap{#3}}}%
 }
  
-\title{\LARGE{Genre et prosodie}\\-\\\textit{Problématique}}
+\title{\LARGE{Genre et prosodie}\\-\\\textit{Quel est l'impact du genre sur les paramètres mesurables de la parole?}}
 \author{\textsc{Baraquin} Léna\\22208376\\Licence de Sciences du langage première année, mineure russe\\Année universitaire 2022/2023}
 \date{\today}
 \makeatletter
@@ -57,6 +57,7 @@
 \section{Introduction}
 \input{intro.tex}
 \newpage
+
 
 \section{Résumé de l'article \cite{Pep20}}
 \input{resume.tex}

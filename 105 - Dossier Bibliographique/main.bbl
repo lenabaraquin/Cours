@@ -130,35 +130,104 @@
       \verb https://www.nouvelobs.com/rue89/nos-vies-intimes/20180723.OBS0077/grave-ou-aigue-sombre-ou-claire-ce-que-le-genre-fait-a-notre-voix.html
       \endverb
     \endentry
-    \entry{Lek16}{article}{}
-      \true{moreauthor}
-      \true{morelabelname}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=85bc342c2ff976fca03d3b06d1ae5dc2}{%
-           family={Lekeu},
-           familyi={L\bibinitperiod},
-           given={Julie},
-           giveni={J\bibinitperiod},
+    \entry{Can15}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=d84466cc6032697ff67b9227a477b989}{%
+           family={Candea},
+           familyi={C\bibinitperiod},
+           given={Maria},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=74eed4e0d443eb4ec550278fc194b1a0}{%
+           family={Trimaille},
+           familyi={T\bibinitperiod},
+           given={Cyril},
+           giveni={C\bibinitperiod},
            givenun=0}}%
       }
       \list{publisher}{1}{%
-        {Université de Liège, Liège, Belgique}%
+        {Éditions de la Maison des sciences de l'homme}%
       }
-      \strng{namehash}{eca960e753d3d830e9b3979e4dbdcf8e}
-      \strng{fullhash}{eca960e753d3d830e9b3979e4dbdcf8e}
-      \strng{bibnamehash}{eca960e753d3d830e9b3979e4dbdcf8e}
-      \strng{authorbibnamehash}{eca960e753d3d830e9b3979e4dbdcf8e}
-      \strng{authornamehash}{eca960e753d3d830e9b3979e4dbdcf8e}
-      \strng{authorfullhash}{eca960e753d3d830e9b3979e4dbdcf8e}
-      \field{sortinit}{L}
-      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \strng{namehash}{273ea9238f773e5a214c4e15ccc2a891}
+      \strng{fullhash}{273ea9238f773e5a214c4e15ccc2a891}
+      \strng{bibnamehash}{273ea9238f773e5a214c4e15ccc2a891}
+      \strng{authorbibnamehash}{273ea9238f773e5a214c4e15ccc2a891}
+      \strng{authornamehash}{273ea9238f773e5a214c4e15ccc2a891}
+      \strng{authorfullhash}{273ea9238f773e5a214c4e15ccc2a891}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{Étendue vocale et prosodie: différences inter-genres?}
-      \field{year}{2016}
+      \field{journaltitle}{Langage et société}
+      \field{number}{1}
+      \field{title}{Introduction. Phonétique, sociolinguistique, sociophonétique: histoires parallèles et croisements}
+      \field{year}{2015}
+      \field{pages}{7\bibrangedash 25}
+      \range{pages}{19}
+    \endentry
+    \entry{DiC13}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3567613ae16d5b5845e9d90f3de047e2}{%
+           family={Di\bibnamedelima Cristo},
+           familyi={D\bibinitperiod\bibinitdelim C\bibinitperiod},
+           given={Albert},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {fre}%
+      }
+      \strng{namehash}{3567613ae16d5b5845e9d90f3de047e2}
+      \strng{fullhash}{3567613ae16d5b5845e9d90f3de047e2}
+      \strng{bibnamehash}{3567613ae16d5b5845e9d90f3de047e2}
+      \strng{authorbibnamehash}{3567613ae16d5b5845e9d90f3de047e2}
+      \strng{authornamehash}{3567613ae16d5b5845e9d90f3de047e2}
+      \strng{authorfullhash}{3567613ae16d5b5845e9d90f3de047e2}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9782353271917}
+      \field{series}{Voix, parole, langage}
+      \field{title}{La prosodie de la parole}
+      \field{year}{2013}
+      \keyw{Prosodie (linguistique)}
+    \endentry
+    \entry{Gar22}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0eff7c2983cb59f6aa28c8e7eda1ba9a}{%
+           family={Garczarek},
+           familyi={G\bibinitperiod},
+           given={Mona},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Université de Liège, Liège, Belgique}%
+      }
+      \strng{namehash}{3373198c0f246bbb7b4eea451ddc3418}
+      \strng{fullhash}{3373198c0f246bbb7b4eea451ddc3418}
+      \strng{bibnamehash}{3373198c0f246bbb7b4eea451ddc3418}
+      \strng{authorbibnamehash}{3373198c0f246bbb7b4eea451ddc3418}
+      \strng{authornamehash}{3373198c0f246bbb7b4eea451ddc3418}
+      \strng{authorfullhash}{3373198c0f246bbb7b4eea451ddc3418}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Implication de la fréquence fondamentale parlée et des modèles intonatifs dans l'identification du genre vocal}
+      \field{year}{2022}
     \endentry
     \entry{Pep16}{inbook}{}
       \name{author}{1}{}{%
