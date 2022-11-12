@@ -1,15 +1,17 @@
 [1] Config.pm:307> INFO - This is Biber 2.17
 [1] Config.pm:310> INFO - Logfile is 'main.blg'
-[286] biber:340> INFO - === ven. nov. 11, 2022, 17:53:24
-[341] Biber.pm:418> INFO - Reading 'main.bcf'
-[610] Biber.pm:972> INFO - Found 8 citekeys in bib section 0
-[659] Biber.pm:4383> INFO - Processing section 0
-[696] Biber.pm:4574> INFO - Looking for bibtex file 'biblio.bib' for section 0
-[700] bibtex.pm:1713> INFO - LaTeX decoding ...
-[746] bibtex.pm:1518> INFO - Found BibTeX data source 'biblio.bib'
-[1082] UCollate.pm:68> INFO - Overriding locale 'fr-FR' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[1083] UCollate.pm:68> INFO - Overriding locale 'fr-FR' defaults 'variable = shifted' with 'variable = non-ignorable'
-[1083] Biber.pm:4203> INFO - Sorting list 'apa/global//global/global' of type 'entry' with template 'apa' and locale 'fr-FR'
-[1084] Biber.pm:4209> INFO - No sort tailoring available for locale 'fr-FR'
-[1127] bbl.pm:654> INFO - Writing 'main.bbl' with encoding 'UTF-8'
-[1144] bbl.pm:757> INFO - Output to main.bbl
+[279] biber:340> INFO - === ven. nov. 11, 2022, 22:54:49
+[325] Biber.pm:418> INFO - Reading 'main.bcf'
+[572] Biber.pm:972> INFO - Found 9 citekeys in bib section 0
+[617] Biber.pm:4383> INFO - Processing section 0
+[654] Biber.pm:4574> INFO - Looking for bibtex file 'biblio.bib' for section 0
+[658] bibtex.pm:1713> INFO - LaTeX decoding ...
+[701] bibtex.pm:1518> INFO - Found BibTeX data source 'biblio.bib'
+[1008] UCollate.pm:68> INFO - Overriding locale 'fr-FR' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1008] UCollate.pm:68> INFO - Overriding locale 'fr-FR' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1008] Biber.pm:4203> INFO - Sorting list 'apa/global//global/global' of type 'entry' with template 'apa' and locale 'fr-FR'
+[1008] Biber.pm:4209> INFO - No sort tailoring available for locale 'fr-FR'
+[1049] bbl.pm:654> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[1067] bbl.pm:757> INFO - Output to main.bbl
+[1068] Biber.pm:130> WARN - I didn't find a database entry for 'Can18' (section 0)
+[1068] Biber.pm:132> INFO - WARNINGS: 1

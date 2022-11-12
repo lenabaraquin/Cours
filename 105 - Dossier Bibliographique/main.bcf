@@ -2816,7 +2816,7 @@
     <bcf:citekey order="4">Bro18</bcf:citekey>
     <bcf:citekey order="5">Boe75</bcf:citekey>
     <bcf:citekey order="6">Gar22</bcf:citekey>
-    <bcf:citekey order="7">Can18</bcf:citekey>
+    <bcf:citekey order="7">Can15</bcf:citekey>
     <bcf:citekey order="8">DiC13</bcf:citekey>
     <bcf:citekey order="9">Pep20</bcf:citekey>
     <bcf:citekey order="10">Pep20</bcf:citekey>
@@ -2836,10 +2836,9 @@
     <bcf:citekey order="24">Bro18</bcf:citekey>
     <bcf:citekey order="25">Boe75</bcf:citekey>
     <bcf:citekey order="26">Gar22</bcf:citekey>
-    <bcf:citekey order="27">Can18</bcf:citekey>
+    <bcf:citekey order="27">Can15</bcf:citekey>
     <bcf:citekey order="28">DiC13</bcf:citekey>
     <bcf:citekey order="29">podcast</bcf:citekey>
-    <bcf:citekey order="30">Can15</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="apa">
