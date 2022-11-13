@@ -19,39 +19,6 @@
 
 \refsection{0}
   \datalist[entry]{apa/global//global/global}
-    \entry{podcast}{misc}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=128ecf542a35ac5270a87dc740918404}{%
-           family={bla},
-           familyi={b\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {France Culture}%
-      }
-      \strng{namehash}{128ecf542a35ac5270a87dc740918404}
-      \strng{fullhash}{128ecf542a35ac5270a87dc740918404}
-      \strng{bibnamehash}{128ecf542a35ac5270a87dc740918404}
-      \strng{authorbibnamehash}{128ecf542a35ac5270a87dc740918404}
-      \strng{authornamehash}{128ecf542a35ac5270a87dc740918404}
-      \strng{authorfullhash}{128ecf542a35ac5270a87dc740918404}
-      \field{sortinit}{b}
-      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{booktitle}{La voix dans tous ses états}
-      \field{month}{08}
-      \field{title}{Voix et genre}
-      \field{year}{2016}
-      \verb{urlraw}
-      \verb https://www.radiofrance.fr/franceculture/podcasts/culture-musique-ete/voix-et-genre-1542609
-      \endverb
-      \verb{url}
-      \verb https://www.radiofrance.fr/franceculture/podcasts/culture-musique-ete/voix-et-genre-1542609
-      \endverb
-    \endentry
     \entry{Boe75}{article}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=b0a98c499cca0166609a93eaf9f24edb}{%
@@ -197,6 +164,8 @@
       \field{series}{Voix, parole, langage}
       \field{title}{La prosodie de la parole}
       \field{year}{2013}
+      \field{pages}{87\bibrangedash 91}
+      \range{pages}{5}
       \keyw{Prosodie (linguistique)}
     \endentry
     \entry{Gar22}{article}{}
@@ -228,6 +197,67 @@
       \field{labeltitlesource}{title}
       \field{title}{Implication de la fréquence fondamentale parlée et des modèles intonatifs dans l'identification du genre vocal}
       \field{year}{2022}
+    \endentry
+    \entry{video}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e3e212cceaaef9d7270c9d6348fd3a35}{%
+           family={Huff},
+           familyi={H\bibinitperiod},
+           given={Amelia},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e3e212cceaaef9d7270c9d6348fd3a35}
+      \strng{fullhash}{e3e212cceaaef9d7270c9d6348fd3a35}
+      \strng{bibnamehash}{e3e212cceaaef9d7270c9d6348fd3a35}
+      \strng{authorbibnamehash}{e3e212cceaaef9d7270c9d6348fd3a35}
+      \strng{authornamehash}{e3e212cceaaef9d7270c9d6348fd3a35}
+      \strng{authorfullhash}{e3e212cceaaef9d7270c9d6348fd3a35}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Single MOST Powerful Element of Voice Feminization: The Gender Dial (R1) | Exercices and Lecture}
+      \field{year}{2020}
+      \verb{urlraw}
+      \verb https://www.youtube.com/watch?v=BW8X2nXexQs
+      \endverb
+      \verb{url}
+      \verb https://www.youtube.com/watch?v=BW8X2nXexQs
+      \endverb
+    \endentry
+    \entry{Lek16}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=85bc342c2ff976fca03d3b06d1ae5dc2}{%
+           family={Lekeu},
+           familyi={L\bibinitperiod},
+           given={Julie},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Université de Liège, Liège, Belgique}%
+      }
+      \strng{namehash}{eca960e753d3d830e9b3979e4dbdcf8e}
+      \strng{fullhash}{eca960e753d3d830e9b3979e4dbdcf8e}
+      \strng{bibnamehash}{eca960e753d3d830e9b3979e4dbdcf8e}
+      \strng{authorbibnamehash}{eca960e753d3d830e9b3979e4dbdcf8e}
+      \strng{authornamehash}{eca960e753d3d830e9b3979e4dbdcf8e}
+      \strng{authorfullhash}{eca960e753d3d830e9b3979e4dbdcf8e}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Étendue vocale et prosodie: différences inter-genres?}
+      \field{year}{2016}
     \endentry
     \entry{Pep16}{inbook}{}
       \name{author}{1}{}{%
@@ -320,8 +350,43 @@
       \field{pages}{153\bibrangedash 177}
       \range{pages}{25}
     \endentry
+    \entry{podcast}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=8f6672487dbc550f0d7ed3af7f7d4bbf}{%
+           family={Sandlarz},
+           familyi={S\bibinitperiod},
+           given={Jérome},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {France Culture}%
+      }
+      \strng{namehash}{8f6672487dbc550f0d7ed3af7f7d4bbf}
+      \strng{fullhash}{8f6672487dbc550f0d7ed3af7f7d4bbf}
+      \strng{bibnamehash}{8f6672487dbc550f0d7ed3af7f7d4bbf}
+      \strng{authorbibnamehash}{8f6672487dbc550f0d7ed3af7f7d4bbf}
+      \strng{authornamehash}{8f6672487dbc550f0d7ed3af7f7d4bbf}
+      \strng{authorfullhash}{8f6672487dbc550f0d7ed3af7f7d4bbf}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{La voix dans tous ses états}
+      \field{month}{08}
+      \field{title}{Voix et genre}
+      \field{year}{2016}
+      \verb{urlraw}
+      \verb https://www.radiofrance.fr/franceculture/podcasts/culture-musique-ete/voix-et-genre-1542609
+      \endverb
+      \verb{url}
+      \verb https://www.radiofrance.fr/franceculture/podcasts/culture-musique-ete/voix-et-genre-1542609
+      \endverb
+    \endentry
   \enddatalist
-  \missing{Can18}
 \endrefsection
 \endinput
 

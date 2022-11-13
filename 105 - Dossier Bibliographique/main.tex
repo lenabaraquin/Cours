@@ -6,6 +6,7 @@
 \usepackage{fullpage}
 \usepackage{eso-pic}
 \usepackage[left = \flqq{}, right = \frqq{}]{dirtytalk}%citations avec \say
+\usepackage{hyperref}
 \usepackage[style=apa,sortcites=true,backend=biber]{biblatex}
 %biblatex:
 \DeclareLanguageMapping{french}{french-apa}
@@ -20,7 +21,7 @@
   \put(\LenToUnit{\dimexpr\paperwidth-#1},\LenToUnit{\dimexpr\paperheight-#2}){\blap{\llap{#3}}}%
 }
  
-\title{\LARGE{Genre et prosodie}\\-\\\textit{Quel est l'impact du genre sur les paramètres mesurables de la parole?}}
+\title{\LARGE{Genre et prosodie}\\-\\\textit{Quel est l'impact du genre, en tant que construit social, sur les paramètres mesurables de la parole?}}
 \author{\textsc{Baraquin} Léna\\22208376\\Licence de Sciences du langage première année, mineure russe\\Année universitaire 2022/2023}
 \date{\today}
 \makeatletter
@@ -59,8 +60,9 @@
 \newpage
 
 
-\section{Résumé de l'article \cite{Pep20}}
-\input{resume.tex}
+%\section{Résumé de l'article \cite{Pep20}}
+\label{sec:resume}
+%\input{resume.tex}
 \section{Bibliographie}
 \input{biblio.tex}
 \section{Analyse réflexive et Conclusion}
@@ -68,7 +70,6 @@
 
 
 \end{document}
-
 
 
 
@@ -148,7 +149,3 @@ Page de garde :
     sous-titre = votre problématique
     image illustrant la thématique
 
-Deuxième page :
-
-    table des matières
-    introduction

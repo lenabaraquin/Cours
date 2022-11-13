@@ -1,17 +1,15 @@
 [1] Config.pm:307> INFO - This is Biber 2.17
 [1] Config.pm:310> INFO - Logfile is 'main.blg'
-[279] biber:340> INFO - === ven. nov. 11, 2022, 22:54:49
-[325] Biber.pm:418> INFO - Reading 'main.bcf'
-[572] Biber.pm:972> INFO - Found 9 citekeys in bib section 0
-[617] Biber.pm:4383> INFO - Processing section 0
-[654] Biber.pm:4574> INFO - Looking for bibtex file 'biblio.bib' for section 0
-[658] bibtex.pm:1713> INFO - LaTeX decoding ...
-[701] bibtex.pm:1518> INFO - Found BibTeX data source 'biblio.bib'
-[1008] UCollate.pm:68> INFO - Overriding locale 'fr-FR' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[1008] UCollate.pm:68> INFO - Overriding locale 'fr-FR' defaults 'variable = shifted' with 'variable = non-ignorable'
-[1008] Biber.pm:4203> INFO - Sorting list 'apa/global//global/global' of type 'entry' with template 'apa' and locale 'fr-FR'
-[1008] Biber.pm:4209> INFO - No sort tailoring available for locale 'fr-FR'
-[1049] bbl.pm:654> INFO - Writing 'main.bbl' with encoding 'UTF-8'
-[1067] bbl.pm:757> INFO - Output to main.bbl
-[1068] Biber.pm:130> WARN - I didn't find a database entry for 'Can18' (section 0)
-[1068] Biber.pm:132> INFO - WARNINGS: 1
+[289] biber:340> INFO - === dim. nov. 13, 2022, 13:12:04
+[338] Biber.pm:418> INFO - Reading 'main.bcf'
+[606] Biber.pm:972> INFO - Found 10 citekeys in bib section 0
+[655] Biber.pm:4383> INFO - Processing section 0
+[692] Biber.pm:4574> INFO - Looking for bibtex file 'biblio.bib' for section 0
+[696] bibtex.pm:1713> INFO - LaTeX decoding ...
+[745] bibtex.pm:1518> INFO - Found BibTeX data source 'biblio.bib'
+[1120] UCollate.pm:68> INFO - Overriding locale 'fr-FR' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1120] UCollate.pm:68> INFO - Overriding locale 'fr-FR' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1121] Biber.pm:4203> INFO - Sorting list 'apa/global//global/global' of type 'entry' with template 'apa' and locale 'fr-FR'
+[1121] Biber.pm:4209> INFO - No sort tailoring available for locale 'fr-FR'
+[1172] bbl.pm:654> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[1194] bbl.pm:757> INFO - Output to main.bbl
