@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.9.22)  13 NOV 2022 16:37
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.9.22)  14 NOV 2022 22:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -654,33 +654,27 @@ Package biblatex Info: ... file 'main.bbl' found.
 Package biblatex Info: Reference section=0 on input line 29.
 Package biblatex Info: Reference segment=0 on input line 29.
 
+LaTeX Font Warning: Font shape `TS1/cmr/m/sc' undefined
+(Font)              using `TS1/cmr/m/n' instead
+(Font)              for symbol `textperiodcentered' on input line 45.
+
+
 LaTeX Font Warning: Font shape `T1/cmr/m/scit' undefined
-(Font)              using `T1/cmr/m/it' instead on input line 41.
+(Font)              using `T1/cmr/m/it' instead on input line 45.
 
 <logo_fac.jpg, id=16, 346.29375pt x 146.5475pt>
 File: logo_fac.jpg Graphic file (type jpg)
 <use logo_fac.jpg>
-Package pdftex.def Info: logo_fac.jpg  used on input line 54.
+Package pdftex.def Info: logo_fac.jpg  used on input line 53.
 (pdftex.def)             Requested size: 113.81102pt x 48.16179pt.
 [1
 
 {/usr/share/texlive/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./logo_fac.j
-pg>]
-File: logo_fac.jpg Graphic file (type jpg)
-<use logo_fac.jpg>
-Package pdftex.def Info: logo_fac.jpg  used on input line 54.
-(pdftex.def)             Requested size: 113.81102pt x 48.16179pt.
- [2] (./main.toc)
+pg>] (./main.toc)
 \tf@toc=\write5
 \openout5 = `main.toc'.
 
  (./intro.tex
-Overfull \hbox (4.48302pt too wide) in paragraph at lines 1--5
-\T1/cmr/m/n/12 J'ai choisi ce thème car je trouve les thématiques liées aux gen
-re extrêmement interessantes.
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 1--5
 
  []
@@ -692,13 +686,19 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 12.
 )
-Overfull \hbox (31.30124pt too wide) in paragraph at lines 6--60
-\T1/cmr/m/n/12 S'agissant de la source multimedia, j'ai choisi une vidéo de la 
+Overfull \hbox (31.30124pt too wide) in paragraph at lines 6--59
+\T1/cmr/m/n/12 S'agissant de la source multimédia, j'ai choisi une vidéo de la 
 chaine youtube TransVoiceLessons :
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 6--60
+Overfull \hbox (5.03557pt too wide) in paragraph at lines 6--59
+\T1/cmr/m/n/12 comprendre le sujet. Un article scientifique qui reprend l'état 
+de l'art de la sociophonétique :
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--59
 
  []
 
@@ -706,7 +706,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.60 \newpage
+l.59 \newpage
               [1] (./biblio.tex
 Underfull \hbox (badness 10000) in paragraph at lines 1--4
 
@@ -742,12 +742,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 29--33
 
  []
 
-pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
-been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.33 
-      [2]
+[2]
 Overfull \hbox (11.23947pt too wide) in paragraph at lines 34--38
 \T1/cmr/m/n/12 permet d'expliquer, sous l'angle de la physique acoustique, diff
 érents paramètres prosodiques
@@ -759,7 +754,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 34--38
  []
 
 )
-Overfull \hbox (56.94757pt too wide) in paragraph at lines 67--67
+Overfull \hbox (56.94757pt too wide) in paragraph at lines 66--66
 [][][]\T1/cmr/m/sc/12 Candea[]\T1/cmr/m/n/12 , M. & []\T1/cmr/m/sc/12 Trimaille
 []\T1/cmr/m/n/12 , C. (2015). Introduction. Phonétique, sociolinguistique, soci
 ophonétique :
@@ -776,23 +771,21 @@ Underfull \hbox (badness 10000) in paragraph at lines 10--11
  []
 
 ) [4] (./main.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 707B206309E1732EF693CDF317B31A6E;421.
-
-
-Package biblatex Warning: Please rerun LaTeX.
-(biblatex)                Page breaks have changed.
-
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 18219 strings out of 480806
- 307958 string characters out of 5905151
- 1113009 words of memory out of 6000000
- 35368 multiletter control sequences out of 15000+600000
- 413761 words of font info for 47 fonts, out of 8000000 for 9000
+ 18225 strings out of 480806
+ 308043 string characters out of 5905151
+ 1112920 words of memory out of 6000000
+ 35373 multiletter control sequences out of 15000+600000
+ 413422 words of font info for 47 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  75i,12n,81p,737b,2804s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr
@@ -802,15 +795,15 @@ ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf
 -dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/share/texlive/texmf-dist/f
 onts/type1/public/cm-super/sfbx1728.pfb></usr/share/texlive/texmf-dist/fonts/ty
 pe1/public/cm-super/sfcc1200.pfb></usr/share/texlive/texmf-dist/fonts/type1/pub
-lic/cm-super/sfcc1440.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-
-super/sfcc2074.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/s
-frm1200.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfrm1440
+lic/cm-super/sfcc2074.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-
+super/sfrm0800.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/s
+frm1200.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfrm2074
 .pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb></
 usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfti2074.pfb>
-Output written on main.pdf (6 pages, 194238 bytes).
+Output written on main.pdf (5 pages, 192901 bytes).
 PDF statistics:
- 157 PDF objects out of 1000 (max. 8388607)
- 135 compressed objects within 2 object streams
+ 153 PDF objects out of 1000 (max. 8388607)
+ 132 compressed objects within 2 object streams
  20 named destinations out of 1000 (max. 500000)
  30 words of extra memory for PDF output out of 10000 (max. 10000000)
 

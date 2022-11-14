@@ -1,7 +1,7 @@
 .PHONY : all clean print bib
 all: main.pdf
 
-main.pdf : main.tex intro.tex resume.tex biblio.tex conclusion.tex
+main.pdf : main.tex intro.tex resume.tex biblio.tex conclusion.tex 
 	pdflatex main.tex 
 
 clean: 

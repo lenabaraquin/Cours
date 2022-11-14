@@ -147,6 +147,9 @@
       \list{language}{1}{%
         {fre}%
       }
+      \list{publisher}{1}{%
+        {de boeck}%
+      }
       \strng{namehash}{3567613ae16d5b5845e9d90f3de047e2}
       \strng{fullhash}{3567613ae16d5b5845e9d90f3de047e2}
       \strng{bibnamehash}{3567613ae16d5b5845e9d90f3de047e2}
@@ -164,8 +167,8 @@
       \field{series}{Voix, parole, langage}
       \field{title}{La prosodie de la parole}
       \field{year}{2013}
-      \field{pages}{87\bibrangedash 91}
-      \range{pages}{5}
+      \field{pages}{87\bibrangedash 101}
+      \range{pages}{15}
       \keyw{Prosodie (linguistique)}
     \endentry
     \entry{Gar22}{article}{}
@@ -207,6 +210,9 @@
            giveni={A\bibinitperiod},
            givenun=0}}%
       }
+      \list{publisher}{1}{%
+        {Youtube}%
+      }
       \strng{namehash}{e3e212cceaaef9d7270c9d6348fd3a35}
       \strng{fullhash}{e3e212cceaaef9d7270c9d6348fd3a35}
       \strng{bibnamehash}{e3e212cceaaef9d7270c9d6348fd3a35}
@@ -220,7 +226,7 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{The Single MOST Powerful Element of Voice Feminization: The Gender Dial (R1) | Exercices and Lecture}
+      \field{title}{The single most powerful element of voice feminization: the gender dial (r1) | exercices and lecture}
       \field{year}{2020}
       \verb{urlraw}
       \verb https://www.youtube.com/watch?v=BW8X2nXexQs
@@ -259,7 +265,7 @@
       \field{title}{Étendue vocale et prosodie: différences inter-genres?}
       \field{year}{2016}
     \endentry
-    \entry{Pep16}{inbook}{}
+    \entry{Pep16}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=ac8f08d8801cc340297b7862a3520225}{%
            family={Pépiot},
@@ -299,8 +305,9 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{Actes de la conférence conjointe JEP-TALN-RECITAL 2016. Volume 1 : JEP, Paris, France, July 4-8, 2016}
+      \field{booktitle}{Actes de la conférence conjointe JEP-TALN-RECITAL}
       \field{title}{Voix de femmes, voix d'hommes: une étude du voice onset time, de la répartition consonnes/voyelles et du débit de parole chez des locuteurs francophones et anglophones américains (Female and male speech: a study of VOT, C/V temporal distribution and speech rate in Parisian French and American English speakers)}
+      \field{volume}{1}
       \field{year}{2016}
       \field{pages}{759\bibrangedash 767}
       \range{pages}{9}
@@ -344,7 +351,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Perceptual and Motor Skills}
       \field{number}{1}
-      \field{title}{Cross-Gender Differences in English/French Bilingual Speakers: A Multiparametric Study}
+      \field{title}{Cross-gender differences in english/french bilingual speakers: a multiparametric study}
       \field{volume}{128}
       \field{year}{2020}
       \field{pages}{153\bibrangedash 177}
